@@ -4,7 +4,7 @@ This is the public documentation for **ZEIT now** all other related services.<br
 You can access this documentation online at https://zeit.co/docs .
 
 ### Running Locally
-dds
+ddsd
 Download the copy of this repostory. 
 seed
 ~~~sh
