@@ -46,7 +46,7 @@ import { TerminalInput } from '../../../components/text/terminal'
 // prettier-ignore
 export default withDoc({
   title: 'The Title for the New Guide',
-  date: '23 June 2017',s
+  date: '23 June 2017',
   authors: [],
   editUrl: 'pages/docs/category/file.js',
 })(markdown(components)`
