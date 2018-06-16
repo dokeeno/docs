@@ -6,6 +6,7 @@ You can access this documentation online at https://zeit.co/docs .
 ### Running Locally
 ddss
 ddd
+wee
 Download the copy of this repostory. 
 
 ~~~sh
