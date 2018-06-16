@@ -6,7 +6,7 @@ You can access this documentation online at https://zeit.co/docs .
 ### Running Locally
 dds
 Download the copy of this repostory. 
-see
+seed
 ~~~sh
 git clone https://github.com/zeit/docs.git
 ~~~
