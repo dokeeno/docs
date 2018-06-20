@@ -5,7 +5,7 @@ You can access this documentation online at https://zeit.co/docs .
 ddd
 ### Running Locally
 
-Download the copy of this repostory. 
+Download the copy of this repostory. ;
 seeddd
 ~~~sh
 git clone https://github.com/zeit/docs.git
