@@ -6,7 +6,7 @@ dddsdd
 ### Running Locally
 
 Download the copy of this repostory. ;
-seeddd
+seedddd
 ~~~sh
 git clone https://github.com/zeit/docs.git
 ~~~
